@@ -1,0 +1,6 @@
+{
+  "name": "WARPER - Smart Discord Bot",
+  "description": "Smart multi-feature Discord Bot powered by Gemini AI with live simulator, server bot runner, slash commands, auto-moderation, and deployment hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
